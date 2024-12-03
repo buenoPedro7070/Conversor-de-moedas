@@ -3,4 +3,6 @@ O presente projeto é um conversor de moedas em tempo real, dolar e euro, sendo 
 
 Para o funcionamento do projeto é preciso que o usuário tenha em seu ambinete o node.js e expo.
 
+![image](https://github.com/user-attachments/assets/31051fd2-c4c1-47d2-834c-fd7baa07af08)
+
 ![image](https://github.com/user-attachments/assets/8f89b306-9d5a-4ee3-b32c-254ecb801fd2)
